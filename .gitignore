@@ -1,0 +1,5 @@
+configurar-credenciais-aws.txt
+configurar-credenciais-azure.txt
+terraform.tfstate.backup
+.terraform
+ssh
