@@ -3,3 +3,4 @@ configurar-credenciais-azure.txt
 terraform.tfstate.backup
 .terraform
 ssh
+plan.out
